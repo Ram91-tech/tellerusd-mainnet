@@ -1,0 +1,8 @@
+{
+  "name": "Teller USD",
+  "symbol": "USDT",
+  "decimals": 18,
+  "logoURI": "https://raw.githubusercontent.com/YourUsername/tellerusd-mainnet/main/tellerusd-logo.png",
+  "type": "BEP-20",
+  "address": "0x2b9ae87ef9eca5642d1007ddfac78b04bca56c1d"
+}
